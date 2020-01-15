@@ -1,3 +1,2 @@
-all = 19
-for i in range(all):
-    print(i)
+from playsound import Playsound
+Playsound('twenty-one-pilots-nico-and-the-niners-official-video')
